@@ -7,4 +7,4 @@ Run ```npm install``` to install the dependencies.
 Run ```npm run dev``` to start the development server.
 
 Open the website at:  
-http://localhost:5173
+http://localhost:5173  
